@@ -1,4 +1,4 @@
 from mathops import add
 
 def test_addition():
-    assert add(2, 2) == 5
+    assert add(2, 2) == 4
